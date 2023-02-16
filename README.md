@@ -1,7 +1,8 @@
 ![MasterHead](https://media3.giphy.com/media/PFWmveglc6IGgpzjXR/giphy.gif)
 <h1 align="center">Hi 👋, I'm Gogulavasan CANNAPPIN (call me Gokool u_U)</h1>
 <h3 align="center">A web developer from Bordeaux (FRANCE)</h3>
-<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw"></a></p>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47vcpz7589pwgpx86oaixlyifrvxnowy66oaiyvmfu&rid=giphy.gif&ct=g">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cannappin&label=Profile%20views&color=0e75b6&style=flat" alt="cannappin" /> </p>
 
